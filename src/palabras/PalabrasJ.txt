@@ -1,1 +1,4 @@
-just = pronto/en un determinado momento/solo/solamente
+jacket = chaqueta
+jewelry = joyas
+job = empleo/trabajo
+just = pronto/así/solo/solamente

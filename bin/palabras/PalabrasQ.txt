@@ -1,2 +1,7 @@
 quirk = peculiaridad/singularidad
 quest = búsqueda/busca/averiguar/indagar
+question = pregunta
+quickly = rápidamente
+quietly = calmadamente/silenciosamente
+quart = cuarto (medida)
+quarter = cuarto (referir horas)

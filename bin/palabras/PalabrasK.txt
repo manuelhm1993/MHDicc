@@ -1,5 +1,8 @@
-kind = bueno/benévolo
+keep = quedarse con/guardar
+key = llave
+kind = bueno/benévolo/clase/tipo
 kinds = gran variedad de/del mismo modo/de igual manera
-knows = conocer/distinguir/saber
-known = to know
-keep = quedarse con/guardar/acatar
+kitchen = cocina (objeto)
+knew = pasado de know
+knife = cuchillo/navaja
+know = saber/conocer

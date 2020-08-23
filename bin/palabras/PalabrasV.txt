@@ -1,1 +1,5 @@
 various = diverso/numeroso/múltiples
+vacation = vacación
+very = muy
+visit = visitar
+vine = vid/enredadera

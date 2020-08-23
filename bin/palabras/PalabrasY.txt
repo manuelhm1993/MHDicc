@@ -1,1 +1,9 @@
+yard = yarda (medida)
+yellow = amarillo
 yet = aun/todavía/ya/as yet -> hasta ahora/sin embargo
+you = palabra personal: tú/usted/ustedes
+your = adjetivo posesivo: tu/tus/de usted/de ustedes
+yours = pronombre posesivo: tuyoa-s; el/los tuyo/a-s
+young = joven
+yourself = reflexivo: se/ud./él/ella mismo/a
+yourselves = reflexivo: se/uds. mismos
