@@ -1,0 +1,5 @@
+kind = bueno/benévolo
+kinds = gran variedad de/del mismo modo/de igual manera
+knows = conocer/distinguir/saber
+known = to know
+keep = quedarse con/guardar/acatar

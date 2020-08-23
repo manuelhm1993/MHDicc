@@ -1,0 +1,11 @@
+powerful = poderoso/potente
+pointers = indicador/índice
+perform = ejecutar/hacer/realizar
+performance = ejecución/realización
+perhaps = tal vez/quizá/acaso
+preface = prólogo/precursor
+parse = analizar
+pun = juego de palabras
+pair = pareja/emparejar
+parrot = loro/cotorra
+period = periodo/fase/etapa/punto

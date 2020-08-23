@@ -1,0 +1,11 @@
+match = compañero/pareja/igual/copia/comparar
+many = muchos/varios -> more -> most
+make = hacer/crear/confeccionar
+meaning = significar/querer decir/intentar
+must = deber/tener que
+maybe = quizá/acaso/tal vez
+might = ser posible que/tener posibilidad
+may = poder/ser posible
+measure = medida/unidad de medida/medición
+made = hecho/preparado
+matter = material/asunto

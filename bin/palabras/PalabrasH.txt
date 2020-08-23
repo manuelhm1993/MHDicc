@@ -1,0 +1,12 @@
+hand = mano 
+handle = tocar/manejar
+handler/s = manejador
+handy = a la mano/próximo
+how = como
+however = sin embargo/no obstante/por muy/de cualquier modo/como quiera que
+hood = capucha/tapar
+hook = gancho/anzuelo
+happen = acontecer/suceder/ocurrir
+had = to have
+halting = claudicante
+hierarchic = hierarchical/jerárquico

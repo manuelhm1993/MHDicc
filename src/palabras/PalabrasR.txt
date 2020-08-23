@@ -1,0 +1,9 @@
+release = soltar/desprender
+raise = levantar/erigir
+related = relacionado/afín
+rapid = rápido/veloz
+rearrange = volver a arreglar/ordenar/disponer
+rather = de preferencia/preferiblemente
+resembles = asemejarse/semejante a
+retrive = recuperar/cobrar
+request = ruego/súplica/encargo/pretición/solicitud

@@ -1,0 +1,4 @@
+get = obtener/adquirir/captar/ir por
+grace = gracia/elegancia
+guess = suponer/opinar/conjetuar
+growing = crecimiento

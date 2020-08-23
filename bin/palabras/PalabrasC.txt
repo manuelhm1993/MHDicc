@@ -1,0 +1,18 @@
+cast = moldear
+case = caso/condición/estado
+common = comun/corriente/familiar/usual/ordinario/frecuente/general
+complete = completo/completado -> completely = completamente
+chain = cadena
+cover = cubierta -> covering = cubrimiento/capa/envoltura
+comprehensive = comprensivo/amplio
+could = pude/pudiste/podría
+come = venir/ser/recorrer
+choice = opción/alternativa/escogencia/opción
+compound = compuesta/o
+completion = cumplimiento/terminación
+closely = cuidadosamente/atentamente/de cerca
+colon = símbolo de dos puntos
+curly = rizado/crespo
+customary = habitual
+clash = chocar/colisionar/golpear
+certain = cierto/seguro/fijo/indudable

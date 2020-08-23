@@ -1,0 +1,9 @@
+depth = profundidad
+does = hacer/tercera persona -> to do
+development = desarrollo
+design = idea/concepción/proyecto
+draft = desperdicio
+domain = dominio
+distinguished = distinguidos/notables
+default = omisión/descuido/negligencia
+deliver = entregar

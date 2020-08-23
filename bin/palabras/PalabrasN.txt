@@ -1,0 +1,4 @@
+noteworthy = notable/digno de atención
+nature = naturaleza/esencia
+nest = nido/to nest -> anidar/empaquetar
+nevertheless = sin embargo/no obstante/a pesar de eso

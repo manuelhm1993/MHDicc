@@ -1,0 +1,7 @@
+let = permitir/sacar/dar/asignar/dejar
+like = semejante/similar/parecido
+lot = lote/parte/porción
+least = menor/íntimo/mínimo
+lead = plomo/guiar/liderar/conducir/mover
+luck = suerte
+lightweight = de poco peso/ligero

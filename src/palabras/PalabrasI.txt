@@ -1,0 +1,6 @@
+instead = en lugar/en cambio/en vez
+its = neutro/su
+into = a/en/dentro
+instance = instancia/ejemplo
+intended = intencionado
+inside = interior

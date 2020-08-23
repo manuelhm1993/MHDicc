@@ -1,0 +1,9 @@
+under = debajo
+upon = en/a/encima
+useful = provechoso
+unlike = diferente/distinto
+until = hasta
+unless = a menos que/a no ser que/no siendo/excepto/salvo/si no
+unpack = desempacar
+unintentionally = sin intención/involuntariamente
+underlying = dependiente/subalterno/subordinado
