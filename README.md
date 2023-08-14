@@ -1,4 +1,4 @@
-# DiccMH
+# MHDicc
 
 Proyecto creado para aprender inglés de forma autodidacta a través de una interfáz gráfica que permite guardar palabras en un sistema de archivos
 
