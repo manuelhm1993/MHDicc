@@ -1,6 +1,6 @@
 # MHDicc - Diccionario dinámico MHenriquez 📝
 
-Proyecto creado para aprender inglés de forma autodidacta a través de una interfáz gráfica que permite guardar palabras en un sistema de archivos, no se limita a inglés - español, se pueden guardar palabras de cualquier idioma que se desee en distintos archivos
+Proyecto creado para aprender inglés de forma autodidacta a través de una interfáz gráfica que permite guardar palabras en un sistema de archivos, no se limita a inglés - español, se pueden guardar palabras de cualquier idioma.
 
 ## GitHub Pages 📋📌: [N/A](https://github.com/manuelhm1993)
 
